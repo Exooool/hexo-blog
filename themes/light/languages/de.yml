@@ -1,12 +1,12 @@
-categories: Kategorien
-search: Suche
-tags: Tags
+categories: 分类
+search: 搜索
+tags: 标签
 tagcloud: Tag-Cloud
-tweets: Tweets
+tweets: 推文
 prev: Vorherige Seite
 next: Nächste Seite
-comment: Kommentare
-archive_a: Archiv
-archive_b: "Archiv: %s"
-page: Seite %d
-recent_posts: Neueste Artikel
+comment: 评论
+archive_a: 文章
+archive_b: "文章: %s"
+page: 页 %d
+recent_posts: 往期文章
